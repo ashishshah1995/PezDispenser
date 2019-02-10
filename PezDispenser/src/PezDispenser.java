@@ -19,7 +19,7 @@ class PezDispenser
     fill(MAX_PEZ);
   }
   
-  //Methoc Overloading
+  //Method Overloading
   public void fill(int pezAmount)
   {
     int newAmount = pezCount+pezAmount;
